@@ -179,7 +179,7 @@
         </div>
 
         <div class="col-md-6">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2322.385461873435!2d6.1446950945343115!3d46.1945918953972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478c7ad397a7d797%3A0xc2fba686d6868ced!2sRue%20Pr%C3%A9vost-Martin%2027%2C%201205%20Gen%C3%A8ve!5e0!3m2!1sfr!2sch!4v1566899623420!5m2!1sfr!2sch" width="500" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2322.385461873435!2d6.1446950945343115!3d46.1945918953972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478c7ad397a7d797%3A0xc2fba686d6868ced!2sRue%20Pr%C3%A9vost-Martin%2027%2C%201205%20Gen%C3%A8ve!5e0!3m2!1sfr!2sch!4v1566899623420!5m2!1sfr!2sch" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
         </div>
 
       </div>
